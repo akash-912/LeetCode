@@ -26,4 +26,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/akash-912/LeetCode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/akash-912/LeetCode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/akash-912/LeetCode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 <!---LeetCode Topics End-->
