@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/akash-912/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/akash-912/LeetCode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/akash-912/LeetCode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
+| [3917-count-indices-with-opposite-parity](https://github.com/akash-912/LeetCode/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
