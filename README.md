@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/akash-912/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/akash-912/LeetCode/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/akash-912/LeetCode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Enumeration
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/akash-912/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/akash-912/LeetCode/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -59,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/akash-912/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/akash-912/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
