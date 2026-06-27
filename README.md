@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/akash-912/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/akash-912/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [3011-find-if-array-can-be-sorted](https://github.com/akash-912/LeetCode/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-912/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/akash-912/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/akash-912/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3697-compute-decimal-representation](https://github.com/akash-912/LeetCode/tree/main/3697-compute-decimal-representation/) | Easy |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akash-912/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/akash-912/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-912/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/akash-912/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3597-partition-string](https://github.com/akash-912/LeetCode/tree/main/3597-partition-string/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-912/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-912/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/akash-912/LeetCode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 ## Math
 | Problem Name | Difficulty |
