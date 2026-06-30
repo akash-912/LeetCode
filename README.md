@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/akash-912/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
+| [1220-count-vowels-permutation](https://github.com/akash-912/LeetCode/tree/main/1220-count-vowels-permutation/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
