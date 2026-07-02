@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-912/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3011-find-if-array-can-be-sorted](https://github.com/akash-912/LeetCode/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-912/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-912/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/akash-912/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/akash-912/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3697-compute-decimal-representation](https://github.com/akash-912/LeetCode/tree/main/3697-compute-decimal-representation/) | Easy |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1219-path-with-maximum-gold](https://github.com/akash-912/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-912/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-912/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-912/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-912/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,4 +176,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-912/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-912/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-912/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-912/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
