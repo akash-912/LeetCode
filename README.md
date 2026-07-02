@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akash-912/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/akash-912/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-912/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/akash-912/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/akash-912/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/akash-912/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0875-koko-eating-bananas](https://github.com/akash-912/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-912/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akash-912/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/akash-912/LeetCode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-912/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
