@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akash-912/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/akash-912/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0074-search-a-2d-matrix](https://github.com/akash-912/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/akash-912/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/akash-912/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-912/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/akash-912/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/akash-912/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-912/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-912/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akash-912/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0074-search-a-2d-matrix](https://github.com/akash-912/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/akash-912/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/akash-912/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-912/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
