@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/akash-912/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/akash-912/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3697-compute-decimal-representation](https://github.com/akash-912/LeetCode/tree/main/3697-compute-decimal-representation/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akash-912/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akash-912/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/akash-912/LeetCode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Number Theory
