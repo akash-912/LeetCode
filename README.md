@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akash-912/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/akash-912/LeetCode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/akash-912/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
+| [3840-house-robber-v](https://github.com/akash-912/LeetCode/tree/main/3840-house-robber-v/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akash-912/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/akash-912/LeetCode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 | [3917-count-indices-with-opposite-parity](https://github.com/akash-912/LeetCode/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1220-count-vowels-permutation](https://github.com/akash-912/LeetCode/tree/main/1220-count-vowels-permutation/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/akash-912/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/akash-912/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3840-house-robber-v](https://github.com/akash-912/LeetCode/tree/main/3840-house-robber-v/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
