@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-912/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akash-912/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/akash-912/LeetCode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
+| [3839-number-of-prefix-connected-groups](https://github.com/akash-912/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akash-912/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/akash-912/LeetCode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 | [3917-count-indices-with-opposite-parity](https://github.com/akash-912/LeetCode/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-912/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akash-912/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/akash-912/LeetCode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
+| [3839-number-of-prefix-connected-groups](https://github.com/akash-912/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akash-912/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/akash-912/LeetCode/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/akash-912/LeetCode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
+| [3839-number-of-prefix-connected-groups](https://github.com/akash-912/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1814-count-nice-pairs-in-an-array](https://github.com/akash-912/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/akash-912/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-912/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3839-number-of-prefix-connected-groups](https://github.com/akash-912/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
