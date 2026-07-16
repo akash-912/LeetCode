@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/akash-912/LeetCode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/akash-912/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3840-house-robber-v](https://github.com/akash-912/LeetCode/tree/main/3840-house-robber-v/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-912/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akash-912/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/akash-912/LeetCode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 | [3917-count-indices-with-opposite-parity](https://github.com/akash-912/LeetCode/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3697-compute-decimal-representation](https://github.com/akash-912/LeetCode/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akash-912/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akash-912/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-912/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akash-912/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/akash-912/LeetCode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Number Theory
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/akash-912/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/akash-912/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akash-912/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-912/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/akash-912/LeetCode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -125,12 +128,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/akash-912/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akash-912/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/akash-912/LeetCode/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-912/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/akash-912/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3597-partition-string](https://github.com/akash-912/LeetCode/tree/main/3597-partition-string/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/akash-912/LeetCode/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-912/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3011-find-if-array-can-be-sorted](https://github.com/akash-912/LeetCode/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akash-912/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/akash-912/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-912/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
