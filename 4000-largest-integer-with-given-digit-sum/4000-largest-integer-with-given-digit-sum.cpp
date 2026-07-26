@@ -1,24 +1,17 @@
 class Solution {
 public:
     int largestInteger(int n, int s) {
-        if (9 * n < s) {
+        if (s > 9 * n)
             return -1;
+
+        int ans = 0;
+
+        for (int i = 0; i < n; i++) {
+            int digit = min(9, s);
+            ans = ans * 10 + digit;
+            s -= digit;
         }
-        if(s==0) return 0;
-        int start = pow(10,n-1);
-        int end = pow(10,n);
-        int ans = -1;
-        for(int i = start;i<end;i++){
-            string k = to_string(i);
-            int num = 0;
-            for(auto ch: k){
-                num += ch - '0';
-            }
-            if(num==s){
-                int digit = stoi(k);
-                ans = max(ans,digit);
-            }
-        }
+
         return ans;
     }
 };
