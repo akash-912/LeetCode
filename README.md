@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/akash-912/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/akash-912/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/akash-912/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0628-maximum-product-of-three-numbers](https://github.com/akash-912/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/akash-912/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-912/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/akash-912/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/akash-912/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/akash-912/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/akash-912/LeetCode/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/akash-912/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/akash-912/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/akash-912/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/akash-912/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-912/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
