@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akash-912/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/akash-912/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akash-912/LeetCode/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/akash-912/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3597-partition-string](https://github.com/akash-912/LeetCode/tree/main/3597-partition-string/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akash-912/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/akash-912/LeetCode/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akash-912/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/akash-912/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3011-find-if-array-can-be-sorted](https://github.com/akash-912/LeetCode/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/akash-912/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akash-912/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/akash-912/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/akash-912/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
@@ -314,4 +316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-912/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/akash-912/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
