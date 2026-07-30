@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/akash-912/LeetCode/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akash-912/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/akash-912/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-912/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akash-912/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/akash-912/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/akash-912/LeetCode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/akash-912/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/akash-912/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akash-912/LeetCode/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-912/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akash-912/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3597-partition-string](https://github.com/akash-912/LeetCode/tree/main/3597-partition-string/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akash-912/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/akash-912/LeetCode/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/akash-912/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akash-912/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-912/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/akash-912/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/akash-912/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/akash-912/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
