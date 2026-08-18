@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/akash-912/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/akash-912/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
