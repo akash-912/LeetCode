@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/akash-912/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash-912/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0908-smallest-range-i](https://github.com/akash-912/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/akash-912/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -343,4 +344,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akash-912/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/akash-912/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/akash-912/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
