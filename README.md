@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3345-smallest-divisible-digit-product-i](https://github.com/akash-912/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/akash-912/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/akash-912/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akash-912/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/akash-912/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akash-912/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/akash-912/LeetCode/tree/main/3697-compute-decimal-representation/) | Easy |
