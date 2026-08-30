@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/akash-912/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0061-rotate-list](https://github.com/akash-912/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/akash-912/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akash-912/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/akash-912/LeetCode/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/akash-912/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0061-rotate-list](https://github.com/akash-912/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0147-insertion-sort-list](https://github.com/akash-912/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/akash-912/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Recursion
