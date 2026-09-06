@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/akash-912/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-912/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/akash-912/LeetCode/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-912/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/akash-912/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/akash-912/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/akash-912/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1220-count-vowels-permutation](https://github.com/akash-912/LeetCode/tree/main/1220-count-vowels-permutation/) | Hard |
