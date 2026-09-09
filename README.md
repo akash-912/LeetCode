@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akash-912/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/akash-912/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/akash-912/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/akash-912/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-912/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/akash-912/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/akash-912/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/akash-912/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/akash-912/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0147-insertion-sort-list](https://github.com/akash-912/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/akash-912/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Recursion
