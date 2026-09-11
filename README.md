@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akash-912/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/akash-912/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/akash-912/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/akash-912/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/akash-912/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-912/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/akash-912/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/akash-912/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/akash-912/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/akash-912/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-912/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/akash-912/LeetCode/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akash-912/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/akash-912/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-912/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/akash-912/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -409,4 +412,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/akash-912/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akash-912/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
