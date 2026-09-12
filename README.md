@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/akash-912/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/akash-912/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/akash-912/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/akash-912/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/akash-912/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/akash-912/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/akash-912/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/akash-912/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/akash-912/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/akash-912/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akash-912/LeetCode/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
