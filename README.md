@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/akash-912/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash-912/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/akash-912/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/akash-912/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0908-smallest-range-i](https://github.com/akash-912/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/akash-912/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-912/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/akash-912/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/akash-912/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/akash-912/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/akash-912/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/akash-912/LeetCode/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/akash-912/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-912/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0904-fruit-into-baskets](https://github.com/akash-912/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/akash-912/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-912/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akash-912/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
