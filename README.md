@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1301-number-of-paths-with-max-score](https://github.com/akash-912/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/akash-912/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/akash-912/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash-912/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-912/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akash-912/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-912/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/akash-912/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/akash-912/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/akash-912/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash-912/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/akash-912/LeetCode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akash-912/LeetCode/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akash-912/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/akash-912/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/akash-912/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-912/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akash-912/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akash-912/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akash-912/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Dynamic Programming
