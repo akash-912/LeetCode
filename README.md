@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-912/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-912/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akash-912/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/akash-912/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akash-912/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3597-partition-string](https://github.com/akash-912/LeetCode/tree/main/3597-partition-string/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akash-912/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/akash-912/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/akash-912/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akash-912/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/akash-912/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3597-partition-string](https://github.com/akash-912/LeetCode/tree/main/3597-partition-string/) | Medium |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/akash-912/LeetCode/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-912/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
