@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3871-count-commas-in-range-ii](https://github.com/akash-912/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akash-912/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/akash-912/LeetCode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/akash-912/LeetCode/tree/main/4050-minimum-days-to-score-exactly-n-points/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akash-912/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/akash-912/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3840-house-robber-v](https://github.com/akash-912/LeetCode/tree/main/3840-house-robber-v/) | Medium |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/akash-912/LeetCode/tree/main/4050-minimum-days-to-score-exactly-n-points/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
