@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/akash-912/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/akash-912/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/akash-912/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/akash-912/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/akash-912/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/akash-912/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-912/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash-912/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/akash-912/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/akash-912/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash-912/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Queue
