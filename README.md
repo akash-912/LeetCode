@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akash-912/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-912/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akash-912/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1528-shuffle-string](https://github.com/akash-912/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/akash-912/LeetCode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akash-912/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/akash-912/LeetCode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-912/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/akash-912/LeetCode/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-912/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1528-shuffle-string](https://github.com/akash-912/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash-912/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akash-912/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akash-912/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
