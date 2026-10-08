@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/akash-912/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/akash-912/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/akash-912/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/akash-912/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-912/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/akash-912/LeetCode/tree/main/1247-minimum-swaps-to-make-strings-equal/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akash-912/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/akash-912/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/akash-912/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/akash-912/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/akash-912/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akash-912/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash-912/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/akash-912/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -472,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/akash-912/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/akash-912/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/akash-912/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/akash-912/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash-912/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
