@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3840-house-robber-v](https://github.com/akash-912/LeetCode/tree/main/3840-house-robber-v/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-912/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akash-912/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/akash-912/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/akash-912/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/akash-912/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/akash-912/LeetCode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akash-912/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akash-912/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/akash-912/LeetCode/tree/main/3784-minimum-deletion-cost-to-make-all-characters-equal/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/akash-912/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3870-count-commas-in-range](https://github.com/akash-912/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/akash-912/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akash-912/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/akash-912/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/akash-912/LeetCode/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/akash-912/LeetCode/tree/main/4050-minimum-days-to-score-exactly-n-points/) | Medium |
 ## Number Theory
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/akash-912/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/akash-912/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akash-912/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/akash-912/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
