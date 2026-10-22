@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3904-smallest-stable-index-ii](https://github.com/akash-912/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/akash-912/LeetCode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 | [3917-count-indices-with-opposite-parity](https://github.com/akash-912/LeetCode/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/akash-912/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
