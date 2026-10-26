@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/akash-912/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/akash-912/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/akash-912/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0275-h-index-ii](https://github.com/akash-912/LeetCode/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/akash-912/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/akash-912/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash-912/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/akash-912/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/akash-912/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/akash-912/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0275-h-index-ii](https://github.com/akash-912/LeetCode/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/akash-912/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/akash-912/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/akash-912/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
