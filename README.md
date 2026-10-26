@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/akash-912/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0908-smallest-range-i](https://github.com/akash-912/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/akash-912/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/akash-912/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/akash-912/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akash-912/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/akash-912/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/akash-912/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/akash-912/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/akash-912/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0994-rotting-oranges](https://github.com/akash-912/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/akash-912/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/akash-912/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/akash-912/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/akash-912/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/akash-912/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0994-rotting-oranges](https://github.com/akash-912/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/akash-912/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-912/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/akash-912/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
