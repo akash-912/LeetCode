@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/akash-912/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0070-climbing-stairs](https://github.com/akash-912/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/akash-912/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/akash-912/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0908-smallest-range-i](https://github.com/akash-912/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/akash-912/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/akash-912/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0070-climbing-stairs](https://github.com/akash-912/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/akash-912/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/akash-912/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/akash-912/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -544,4 +546,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/akash-912/LeetCode/tree/main/0207-course-schedule/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/akash-912/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
