@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3620-network-recovery-pathways](https://github.com/akash-912/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/akash-912/LeetCode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/akash-912/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/akash-912/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3697-compute-decimal-representation](https://github.com/akash-912/LeetCode/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akash-912/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akash-912/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/akash-912/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akash-912/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/akash-912/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/akash-912/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3840-house-robber-v](https://github.com/akash-912/LeetCode/tree/main/3840-house-robber-v/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akash-912/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/akash-912/LeetCode/tree/main/4050-minimum-days-to-score-exactly-n-points/) | Medium |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akash-912/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3537-fill-a-special-grid](https://github.com/akash-912/LeetCode/tree/main/3537-fill-a-special-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/akash-912/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/akash-912/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akash-912/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
